@@ -1,5 +1,6 @@
 7cc633e971e0534c7ad41656f955949416a14894<h1 align="center">
-	<img src="https://raw.githubusercontent.com/KeepSafe/ReLinker/1.2/web/logo.png" width="256" height="256" alt="ReLinker"><br/>
+	<img
+ฝ src="https://raw.githubusercontent.com/KeepSafe/ReLinker/1.2/web/logo.png" width="256" height="256" alt="ReLinker"><br/>
 	ReLinker
 </h1>
 
